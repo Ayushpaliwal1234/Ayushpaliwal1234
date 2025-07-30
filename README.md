@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Paliwal</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-- 🌱 I’m currently learning ** Fullstack projects**
+- 🌱 I’m currently learning **Fullstack Projects**
 
 - 📫 How to reach me **ayushpaliwal2580@gmail.com**
 
