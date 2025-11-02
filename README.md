@@ -3,9 +3,11 @@
 
 - 🌱 I’m currently exploring **Full Stack technologies**
 
+-  💼 Check out my portfolio: [https://aayushportfolio.onrender.com/](https://aayushportfolio.onrender.com/)
+
 - 📫 How to reach me **ayushpaliwal2580@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VF-AzujEP1nc4zIPjP8a7AWD1JM5oPFe/view?usp=sharing](https://drive.google.com/file/d/1VF-AzujEP1nc4zIPjP8a7AWD1JM5oPFe/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pPJsgSwKkeVxvrZ3LJh-XWoSeTigx9zJ/view?usp=sharing](https://drive.google.com/file/d/1pPJsgSwKkeVxvrZ3LJh-XWoSeTigx9zJ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
